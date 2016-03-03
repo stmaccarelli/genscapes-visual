@@ -1,0 +1,26 @@
+{
+  "name": "genscapes-visual",
+  "homepage": "https://github.com/stmaccarelli/genscapes-visual",
+  "authors": [
+    "stmaccarelli <reddo.theking@gmail.com>"
+  ],
+  "description": "audioreactive generative landscapes from live audio",
+  "main": "index.js",
+  "moduleType": [
+    "node"
+  ],
+  "keywords": [
+    "audioreactive",
+    "generative",
+    "landscape"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "name": "genscapes-visual",
+  "version": "0.1.0",
+  "description": "audioreactive generative landscapes on mobile from server input",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stmaccarelli/genscapes-visual.git"
+  },
+  "author": "stmaccarelli",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/stmaccarelli/genscapes-visual/issues"
+  },
+  "homepage": "https://github.com/stmaccarelli/genscapes-visual#readme"
+}
